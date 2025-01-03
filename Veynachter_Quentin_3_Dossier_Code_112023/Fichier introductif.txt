@@ -1,0 +1,22 @@
+Structure du repository :
+
+- Veynachter_Quentin_1_API_112023.py : Script qui lance l'API et le dashboard
+
+- Veynachter_Quentin_2_Notebook_Modélisation_112023.ipynb : Notebook intégrant le nettoyage des données, la création de nouvelles features et le tracking MLFlow
+
+- Veynachter_Quentin_3_Dossier_Code_112023 : Dossier contenant :
+	- Meilleurs modèles et feature importance.ipynb : Notebook de modélisation des meilleurs modèles incluant une rapide analyse de feature importance
+	- Artefacts : Dossier comprenant :
+		- Les scripts api.py et dashboard.py
+		- Les données data_final.parquet et data_test.parquet
+		- Les pickles model.pkl et scaler.pkl
+	- Data drift : Inclue le notebook data_drift.ipynb qui a permis de générer un tableau html
+	- mlruns : Tout les enregistrements relatifs à MLFlow
+	- Fichier introductif.txt : Ce fichier décrivant la structure du repository
+	- requirements.txt : Fichier de dépendances listant les librairies Python nécessaires au déploiement
+
+- Veynachter_Quentin_4_Tableau_HTML_Data_Drift_Evidently_112023.html : Tableau d'analyse de data drift
+
+- Veynachter_Quentin_5_Script_Test_API_112023.py : Script de tests unitaires
+
+- Veynachter_Quentin_6_Presentation_112023.pptx : Support de présentation

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OPENCLASSROOMS/DATA%20SCIENTIST/Impl%C3%A9mentez_un_mod%C3%A8le_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/443818832301229853/424ae36cebc24ec7b5c356aed33177ae/artifacts
+end_time: 1733382794716
+entry_point_name: ''
+experiment_id: '443818832301229853'
+lifecycle_stage: active
+run_id: 424ae36cebc24ec7b5c356aed33177ae
+run_name: Logistic_regression
+run_uuid: 424ae36cebc24ec7b5c356aed33177ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733382772035
+status: 3
+tags: []
+user_id: kent1

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/382148865552105614/48c4a5bbb2674d14afd36709e4567ed0/artifacts
+end_time: 1733163555069
+entry_point_name: ''
+experiment_id: '382148865552105614'
+lifecycle_stage: active
+run_id: 48c4a5bbb2674d14afd36709e4567ed0
+run_name: angry-whale-902
+run_uuid: 48c4a5bbb2674d14afd36709e4567ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733163540507
+status: 3
+tags: []
+user_id: kent1

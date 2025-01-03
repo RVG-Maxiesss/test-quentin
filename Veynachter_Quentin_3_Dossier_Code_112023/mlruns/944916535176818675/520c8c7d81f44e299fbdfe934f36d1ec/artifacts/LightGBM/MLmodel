@@ -1,0 +1,24 @@
+artifact_path: LightGBM
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.18.0
+model_size_bytes: 780
+model_uuid: b81ad1c78c824bbb8ca93ffe7d1887ae
+run_id: 520c8c7d81f44e299fbdfe934f36d1ec
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 768]}}]'
+  outputs: '[{"type": "double", "name": "TARGET", "required": true}]'
+  params: null
+utc_time_created: '2024-12-05 06:14:43.938113'

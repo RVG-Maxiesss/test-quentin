@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/382148865552105614/17dac838123941d08fac03d5fcf61c09/artifacts
+end_time: 1733160824633
+entry_point_name: ''
+experiment_id: '382148865552105614'
+lifecycle_stage: active
+run_id: 17dac838123941d08fac03d5fcf61c09
+run_name: shivering-pug-309
+run_uuid: 17dac838123941d08fac03d5fcf61c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733160819427
+status: 3
+tags: []
+user_id: kent1

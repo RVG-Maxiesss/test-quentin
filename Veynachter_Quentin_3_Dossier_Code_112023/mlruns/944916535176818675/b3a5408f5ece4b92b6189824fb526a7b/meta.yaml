@@ -1,0 +1,15 @@
+artifact_uri: file:E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/944916535176818675/b3a5408f5ece4b92b6189824fb526a7b/artifacts
+end_time: 1733359749392
+entry_point_name: ''
+experiment_id: '944916535176818675'
+lifecycle_stage: active
+run_id: b3a5408f5ece4b92b6189824fb526a7b
+run_name: languid-moose-490
+run_uuid: b3a5408f5ece4b92b6189824fb526a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733359721079
+status: 3
+tags: []
+user_id: kent1

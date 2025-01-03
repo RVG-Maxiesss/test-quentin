@@ -1,0 +1,15 @@
+artifact_uri: file:E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/944916535176818675/1f18dd1269a045f59b31cb1db8457a1b/artifacts
+end_time: 1733358100380
+entry_point_name: ''
+experiment_id: '944916535176818675'
+lifecycle_stage: active
+run_id: 1f18dd1269a045f59b31cb1db8457a1b
+run_name: aged-crow-701
+run_uuid: 1f18dd1269a045f59b31cb1db8457a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733358046622
+status: 3
+tags: []
+user_id: kent1

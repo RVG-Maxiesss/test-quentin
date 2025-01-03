@@ -1,0 +1,15 @@
+artifact_uri: file:E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/944916535176818675/07b547c9260e45a39ce29dd081adcd06/artifacts
+end_time: 1733373363095
+entry_point_name: ''
+experiment_id: '944916535176818675'
+lifecycle_stage: active
+run_id: 07b547c9260e45a39ce29dd081adcd06
+run_name: intrigued-dove-177
+run_uuid: 07b547c9260e45a39ce29dd081adcd06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733373350861
+status: 3
+tags: []
+user_id: kent1

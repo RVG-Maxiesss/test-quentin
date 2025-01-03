@@ -1,0 +1,15 @@
+artifact_uri: file:E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/944916535176818675/4a5dd18b413f48f293bbce96ccb36fc0/artifacts
+end_time: 1733358873930
+entry_point_name: ''
+experiment_id: '944916535176818675'
+lifecycle_stage: active
+run_id: 4a5dd18b413f48f293bbce96ccb36fc0
+run_name: invincible-asp-329
+run_uuid: 4a5dd18b413f48f293bbce96ccb36fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733358847001
+status: 3
+tags: []
+user_id: kent1

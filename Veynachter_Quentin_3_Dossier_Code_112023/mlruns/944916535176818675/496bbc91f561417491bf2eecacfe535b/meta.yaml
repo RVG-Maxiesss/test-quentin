@@ -1,0 +1,15 @@
+artifact_uri: file:E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/944916535176818675/496bbc91f561417491bf2eecacfe535b/artifacts
+end_time: 1733379699678
+entry_point_name: ''
+experiment_id: '944916535176818675'
+lifecycle_stage: active
+run_id: 496bbc91f561417491bf2eecacfe535b
+run_name: bedecked-chimp-169
+run_uuid: 496bbc91f561417491bf2eecacfe535b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733379688677
+status: 3
+tags: []
+user_id: kent1

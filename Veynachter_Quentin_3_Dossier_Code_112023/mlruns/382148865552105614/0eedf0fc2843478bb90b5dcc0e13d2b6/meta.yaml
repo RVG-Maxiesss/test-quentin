@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/382148865552105614/0eedf0fc2843478bb90b5dcc0e13d2b6/artifacts
+end_time: 1733163790989
+entry_point_name: ''
+experiment_id: '382148865552105614'
+lifecycle_stage: active
+run_id: 0eedf0fc2843478bb90b5dcc0e13d2b6
+run_name: suave-croc-705
+run_uuid: 0eedf0fc2843478bb90b5dcc0e13d2b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733163785822
+status: 3
+tags: []
+user_id: kent1

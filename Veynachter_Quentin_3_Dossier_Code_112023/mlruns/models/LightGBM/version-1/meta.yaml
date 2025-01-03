@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733738161883
+current_stage: None
+description: ''
+last_updated_timestamp: 1733738161883
+name: LightGBM
+run_id: 18009549865e40599522c6e73759f230
+run_link: ''
+source: file:///E:/OPENCLASSROOMS/DATA%20SCIENTIST/Impl%C3%A9mentez_un_mod%C3%A8le_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/443818832301229853/18009549865e40599522c6e73759f230/artifacts/LightGBM
+status: READY
+status_message: null
+storage_location: file:///E:/OPENCLASSROOMS/DATA%20SCIENTIST/Impl%C3%A9mentez_un_mod%C3%A8le_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/443818832301229853/18009549865e40599522c6e73759f230/artifacts/LightGBM
+user_id: null
+version: 1

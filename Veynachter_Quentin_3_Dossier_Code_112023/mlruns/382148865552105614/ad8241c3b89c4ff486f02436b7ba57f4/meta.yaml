@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/382148865552105614/ad8241c3b89c4ff486f02436b7ba57f4/artifacts
+end_time: 1733161916014
+entry_point_name: ''
+experiment_id: '382148865552105614'
+lifecycle_stage: active
+run_id: ad8241c3b89c4ff486f02436b7ba57f4
+run_name: blushing-dog-536
+run_uuid: ad8241c3b89c4ff486f02436b7ba57f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733161910337
+status: 3
+tags: []
+user_id: kent1

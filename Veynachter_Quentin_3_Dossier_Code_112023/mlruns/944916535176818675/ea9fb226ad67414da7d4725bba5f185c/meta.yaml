@@ -1,0 +1,15 @@
+artifact_uri: file:E:/OPENCLASSROOMS/DATA SCIENTIST/Implémentez_un_modèle_de_scoring_Veynachter_Quentin/Veynachter_Quentin_3_Dossier_Code_112023/mlruns/944916535176818675/ea9fb226ad67414da7d4725bba5f185c/artifacts
+end_time: 1733374354602
+entry_point_name: ''
+experiment_id: '944916535176818675'
+lifecycle_stage: active
+run_id: ea9fb226ad67414da7d4725bba5f185c
+run_name: vaunted-foal-672
+run_uuid: ea9fb226ad67414da7d4725bba5f185c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733374327628
+status: 3
+tags: []
+user_id: kent1
